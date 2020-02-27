@@ -6,6 +6,6 @@ import { Order } from "./order.model";
 import { OrderRepository } from "./order.repository";
 
 @NgModule({
-    providers: [ProductRepository, StaticDataSource, Cart]
+    providers: [ProductRepository, StaticDataSource, Cart, Order, OrderRepository]
 })
 export class ModelModule { }
