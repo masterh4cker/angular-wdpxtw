@@ -32,6 +32,7 @@
     "jsonwebtoken": "8.1.1",
     "popper.js": "^1.16.0",
     "rxjs": "^6.0.0",
+    "shopping": "^1.0.0",
     "store": "^2.0.12",
     "zone.js": "^0.8.26"
   },
